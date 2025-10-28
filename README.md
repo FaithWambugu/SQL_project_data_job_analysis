@@ -53,7 +53,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](https://github.com/FaithWambugu/SQL_project_data_job_analysis/blob/main/assets/top_paying_roles.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts: ChatGPT generated this grapgh from my SQL query results*
+*Bar graph visualizing the salary for the top 10 salaries for data analysts: ChatGPT generated this gragh from my SQL query results*
 
 
 ### 2. Skills for Top Paying Data Analyst jobs
